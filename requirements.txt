@@ -1,0 +1,5 @@
+anthropic>=0.52.0
+sendgrid>=6.11.0
+feedparser>=6.0.11
+python-dateutil>=2.9.0
+requests>=2.31.0

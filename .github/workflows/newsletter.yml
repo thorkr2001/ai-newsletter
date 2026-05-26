@@ -1,0 +1,59 @@
+name: ⚡ AI Intelligence Newsletter
+
+# ── Schedule ─────────────────────────────────────────────────────────────────
+# 08:00 UTC = 10:00 AM Copenhagen (CEST / summer, UTC+2)
+#             09:00 AM Copenhagen (CET  / winter, UTC+1)
+# To shift to 10 AM year-round in winter change to: '0 9 * * *'
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:          # Allows one-click manual sends from the Actions tab
+
+# ── Permissions ──────────────────────────────────────────────────────────────
+# 'write' is needed so the bot can commit the updated sent_stories.json
+permissions:
+  contents: write
+
+# ── Job ───────────────────────────────────────────────────────────────────────
+jobs:
+  send-newsletter:
+    name: Curate & Send
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # 1. Check out the repo (including sent_stories.json)
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Set up Python 3.11
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # 3. Install dependencies
+      - name: 📦 Install dependencies
+        run: pip install -r requirements.txt
+
+      # 4. Run the newsletter script
+      - name: 📰 Generate & send newsletter
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SENDGRID_API_KEY:  ${{ secrets.SENDGRID_API_KEY }}
+          SENDER_EMAIL:      ${{ secrets.SENDER_EMAIL }}
+        run: python newsletter.py
+
+      # 5. Commit the updated dedup log back to the repo
+      #    [skip ci] prevents this commit from triggering another workflow run
+      - name: 💾 Commit dedup log
+        run: |
+          git config user.name  "Newsletter Bot 🤖"
+          git config user.email "newsletter-bot@users.noreply.github.com"
+          git add sent_stories.json
+          git diff --staged --quiet \
+            || git commit -m "chore: update sent stories log [skip ci]"
+          git push
