@@ -1,4 +1,26 @@
 {
-  "urls": [],
-  "titles": []
+  "urls": [
+    "https://www.anthropic.com/research/glasswing-initial-update",
+    "https://www.bloomberg.com/news/articles/2026-05-22/anthropic-to-close-over-30-billion-round-as-soon-as-next-week",
+    "https://www.bloomberg.com/news/articles/2026-05-26/china-expands-travel-curbs-to-top-ai-talent-at-private-firms",
+    "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "https://federalnewsnetwork.com/artificial-intelligence/2026/05/wh-studying-ai-security-executive-order/",
+    "https://www.techtimes.com/articles/317081/20260525/meta-employee-surveillance-ai-training-draws-protest-zuckerberg-defends-no-opt-out-program-8000.htm",
+    "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/",
+    "https://www.startuphub.ai/ai-news/ai-analysis/2026/four-labs-four-acquisitions-ai-consolidation-may-2026",
+    "https://whatllm.org/blog/new-ai-models-may-2026"
+  ],
+  "titles": [
+    "Anthropic's Claude Mythos Finds 10,000+ Critical Software Vulnerabilities Through Project Glasswing",
+    "Anthropic Closes Second $30 Billion Round of 2026 at $900 Billion Valuation, Surpassing OpenAI",
+    "China Imposes Overseas Travel Restrictions on Top AI Professionals at Alibaba and DeepSeek",
+    "OpenAI Model Autonomously Disproves 80-Year-Old Erd\u0151s Geometry Conjecture",
+    "Google Launches Gemini 3.5 Flash and Gemini Spark Agent at I/O 2026, Bets Full Platform on Agentic AI",
+    "Trump White House Shelves AI Safety Executive Order Days Before Signing",
+    "Meta Cuts 8,000 Jobs Alongside Employee Surveillance Program That Trained AI on Workers' Keystrokes",
+    "EU Reaches Provisional Agreement to Streamline AI Act Implementation Ahead of August 2026 Deadline",
+    "AI Industry Consolidation Accelerates: Four Major Labs Each Acquire a Startup in One Week",
+    "Subquadratic Architecture Breakthrough: First Commercial LLM With 12-Million-Token Context at One-Fifth the Cost"
+  ]
 }
