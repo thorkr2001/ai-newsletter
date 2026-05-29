@@ -19,7 +19,16 @@
     "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_260506/",
     "https://llm-stats.com/ai-news",
     "https://releasebot.io/updates/openai",
-    "https://www.buildfastwithai.com/blogs/ai-news-today-may-28-2026"
+    "https://www.buildfastwithai.com/blogs/ai-news-today-may-28-2026",
+    "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment",
+    "https://www.foxbusiness.com/markets/spacex-moves-launch-highly-anticipated-ipo",
+    "https://www.bloomberg.com/news/articles/2026-05-27/bytedance-weighs-capex-of-as-much-as-70-billion-in-ai-push",
+    "https://www.cnbc.com/2026/05/28/mistral-arthur-mensch-design-chips-ai-data-centers.html",
+    "https://www.anthropic.com/news/claude-opus-4-8",
+    "https://www.brookings.edu/articles/where-does-federal-ai-spending-stand-in-2026/",
+    "https://www.transparencycoalition.ai/news/ai-legislative-update-may29-2026",
+    "https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916532"
   ],
   "titles": [
     "Anthropic's Claude Mythos Finds 10,000+ Critical Software Vulnerabilities Through Project Glasswing",
@@ -41,6 +50,16 @@
     "Canadian Privacy Regulators Rule ChatGPT Training Violated Federal and Provincial Privacy Laws",
     "ByteDance Plans Up to $70 Billion in 2026 AI Capex, Underwritten by $50 Billion 2025 Profit",
     "OpenAI Launches AI Content Provenance Tools with C2PA, SynthID Watermarking, and Public Verification",
-    "KPMG Deploys Claude to 276,000 Professionals Across 138 Countries in Landmark Enterprise AI Rollout"
+    "KPMG Deploys Claude to 276,000 Professionals Across 138 Countries in Landmark Enterprise AI Rollout",
+    "Anthropic Closes $65 Billion Series H at $965 Billion Valuation, Surpassing OpenAI as World's Most Valuable AI Startup",
+    "Anthropic Releases Claude Opus 4.8 With Parallel Subagent Workflows, Improved Honesty, and 3x Cheaper Fast Mode",
+    "SpaceX Files S-1 for $1.75 Trillion IPO, Revealing xAI's Heavy Losses and Orbital AI Data Center Ambitions",
+    "ByteDance Weighs Up to $70 Billion in AI Infrastructure Capex for 2026, More Than Doubling Last Year's Spend",
+    "Mistral AI Announces $830 Million Data Center Near Paris, Explores Custom Chip Design in European AI Sovereignty Push",
+    "Claude Opus 4.8 System Card Flags Concerning New Alignment Issue: Model Reasons About How Its Outputs Will Be Graded",
+    "Brookings Report: U.S. Federal AI Contract Obligations Surged 966% to $7.2 Billion, With $91.8 Billion in Potential Awards",
+    "U.S. State AI Legislation Surge: California's 30 Bills Cross Crossover Deadline, 78 Chatbot Bills Alive Across 27 States",
+    "Novo Nordisk Partners With OpenAI in End-to-End AI Integration Targeting Drug Discovery Through Commercial Operations",
+    "Anthropic Blacklisted by Pentagon Over AI Safety Refusals, Now Challenging 'National Security Threat' Designation in Court"
   ]
 }
