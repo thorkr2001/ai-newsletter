@@ -28,7 +28,16 @@
     "https://www.anthropic.com/news/claude-opus-4-8",
     "https://www.brookings.edu/articles/where-does-federal-ai-spending-stand-in-2026/",
     "https://www.transparencycoalition.ai/news/ai-legislative-update-may29-2026",
-    "https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916532"
+    "https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916532",
+    "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/",
+    "https://www.bloomberg.com/news/articles/2026-05-28/dell-boosts-outlook-to-60-billion-in-ai-server-sales-this-year",
+    "https://openai.com/index/openai-frontier-governance-framework/",
+    "https://www.carpedatumlaw.com/2026/05/colorados-ai-reset-two-weeks-a-white-house-callout-and-a-pivot-away-from-the-eu-model/",
+    "https://www.bankinfosecurity.com/hhs-launches-ai-powered-effort-to-identify-fraud-waste-a-31761",
+    "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+    "https://press.airstreet.com/p/state-of-ai-may-2026",
+    "https://techstartups.com/2026/05/28/venture-capital-startup-funding-roundup-may-28-2026/",
+    "https://www.digitalapplied.com/blog/ai-model-releases-may-2026-complete-tracker"
   ],
   "titles": [
     "Anthropic's Claude Mythos Finds 10,000+ Critical Software Vulnerabilities Through Project Glasswing",
@@ -60,6 +69,16 @@
     "Brookings Report: U.S. Federal AI Contract Obligations Surged 966% to $7.2 Billion, With $91.8 Billion in Potential Awards",
     "U.S. State AI Legislation Surge: California's 30 Bills Cross Crossover Deadline, 78 Chatbot Bills Alive Across 27 States",
     "Novo Nordisk Partners With OpenAI in End-to-End AI Integration Targeting Drug Discovery Through Commercial Operations",
-    "Anthropic Blacklisted by Pentagon Over AI Safety Refusals, Now Challenging 'National Security Threat' Designation in Court"
+    "Anthropic Blacklisted by Pentagon Over AI Safety Refusals, Now Challenging 'National Security Threat' Designation in Court",
+    "OpenAI Launches Rosalind Biodefense Program, Expands GPT-Rosalind Access to Government Partners",
+    "Dell Beats Earnings by $8B on AI Server Surge, Raises Full-Year Outlook to $60B in AI Revenue",
+    "OpenAI Publishes Frontier Governance Framework Aligned with EU AI Act and California Law",
+    "Colorado Replaces Landmark AI Act with Narrower Transparency Framework Ahead of June 30 Deadline",
+    "California's Wave of 30 AI Bills Clears Crossover Deadline, Including Chatbot Safety and Digital Replica Laws",
+    "HHS Deploys ChatGPT to Audit Five Years of Health Program Records Across All 50 States",
+    "Google's TurboQuant Achieves 6x KV Cache Compression with Zero Accuracy Loss at ICLR 2026",
+    "Four Chinese Open-Source Coding Models Release in 12 Days at a Fraction of Western Frontier Pricing",
+    "Anthropic's $65B Series H Pushes Lifetime Raise Above $95B as Revenue Run Rate Approaches $30B",
+    "Big Four Accounting Firms Complete AI Deployment Matrix with Hundreds of Thousands of Seats on Anthropic and OpenAI Models"
   ]
 }
