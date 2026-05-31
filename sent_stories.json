@@ -37,7 +37,14 @@
     "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
     "https://press.airstreet.com/p/state-of-ai-may-2026",
     "https://techstartups.com/2026/05/28/venture-capital-startup-funding-roundup-may-28-2026/",
-    "https://www.digitalapplied.com/blog/ai-model-releases-may-2026-complete-tracker"
+    "https://www.digitalapplied.com/blog/ai-model-releases-may-2026-complete-tracker",
+    "https://www.cnbc.com/2026/05/29/dell-stock-earnings-ai-servers.html",
+    "https://www.cnbc.com/2026/05/20/spacex-ipo-live-updates.html",
+    "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+    "https://www.hunton.com/privacy-and-cybersecurity-law-blog/colorado-ai-act-amended-and-effective-date-delayed",
+    "https://windowsforum.com/threads/microsoft-build-2026-windows-becomes-the-platform-for-ai-agents.420503/",
+    "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
   ],
   "titles": [
     "Anthropic's Claude Mythos Finds 10,000+ Critical Software Vulnerabilities Through Project Glasswing",
@@ -79,6 +86,16 @@
     "Google's TurboQuant Achieves 6x KV Cache Compression with Zero Accuracy Loss at ICLR 2026",
     "Four Chinese Open-Source Coding Models Release in 12 Days at a Fraction of Western Frontier Pricing",
     "Anthropic's $65B Series H Pushes Lifetime Raise Above $95B as Revenue Run Rate Approaches $30B",
-    "Big Four Accounting Firms Complete AI Deployment Matrix with Hundreds of Thousands of Seats on Anthropic and OpenAI Models"
+    "Big Four Accounting Firms Complete AI Deployment Matrix with Hundreds of Thousands of Seats on Anthropic and OpenAI Models",
+    "Dell Reports 757% AI Server Revenue Surge, Raises Full-Year Forecast to $60 Billion",
+    "SpaceX IPO Roadshow Set for June 8 as Company Targets $1.75 Trillion Valuation and $75 Billion Raise",
+    "Groq Raises $650 Million to Pivot From Chipmaker to AI Inference Neocloud After Nvidia's $20 Billion Tech Licensing Deal",
+    "Google's Gemini Spark 24/7 Personal AI Agent Goes Live for U.S. Ultra Subscribers",
+    "OpenAI Publishes Frontier Governance Framework, Mapping Safety Practices to California and EU AI Laws",
+    "Colorado AI Act Effectively Shelved: Governor Signs Replacement Law, Federal Court Stays Enforcement",
+    "Microsoft Build 2026 Opens Tomorrow, Positioning Windows as a Native Platform for Autonomous AI Agents",
+    "Four Chinese Labs Release Frontier-Class Open-Weight Coding Models in 12 Days at a Third the Cost of Western Rivals",
+    "OpenAI Launches Rosalind Biodefense Program, Expanding GPT-Rosalind Access to Government and Research Partners",
+    "EU AI Act Transparency Rules Set for August 2026 Enforcement as Commission Finalizes Implementation Guidelines"
   ]
 }
