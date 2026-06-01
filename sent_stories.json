@@ -44,7 +44,13 @@
     "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
     "https://www.hunton.com/privacy-and-cybersecurity-law-blog/colorado-ai-act-amended-and-effective-date-delayed",
     "https://windowsforum.com/threads/microsoft-build-2026-windows-becomes-the-platform-for-ai-agents.420503/",
-    "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+    "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+    "https://www.cnn.com/2026/05/28/media/cnn-sues-perplexity-ai-copyright",
+    "https://www.mcdermottlaw.com/insights/colorado-ai-law-in-flux-comprehensive-replacement-bill-signed-after-federal-court-blocks-predecessors-enforcement/",
+    "https://www.cnbc.com/2026/04/28/meta-google-big-tech-staff-ai-labs-investors.html",
+    "https://windowsforum.com/threads/copilot-to-usage-billing-june-1-2026-ai-credits-token-costs-and-meter-shock.420900/"
   ],
   "titles": [
     "Anthropic's Claude Mythos Finds 10,000+ Critical Software Vulnerabilities Through Project Glasswing",
@@ -96,6 +102,16 @@
     "Microsoft Build 2026 Opens Tomorrow, Positioning Windows as a Native Platform for Autonomous AI Agents",
     "Four Chinese Labs Release Frontier-Class Open-Weight Coding Models in 12 Days at a Third the Cost of Western Rivals",
     "OpenAI Launches Rosalind Biodefense Program, Expanding GPT-Rosalind Access to Government and Research Partners",
-    "EU AI Act Transparency Rules Set for August 2026 Enforcement as Commission Finalizes Implementation Guidelines"
+    "EU AI Act Transparency Rules Set for August 2026 Enforcement as Commission Finalizes Implementation Guidelines",
+    "SoftBank Commits \u20ac75 Billion to Build Europe's Largest AI Data Center Hub in France",
+    "SpaceX/xAI IPO Roadshow Launches This Week, Targeting $1.75 Trillion Valuation",
+    "Google Gemini 3.5 Flash Goes GA \u2014 Beats Prior Pro Tier at 4x Speed, With Pro Imminent",
+    "Enterprise AI Costs Spiral as Agentic Workflows Exhaust Annual Budgets in Months",
+    "CNN Sues Perplexity AI, Alleging Scraping of 17,000 Stories in Landmark Copyright Case",
+    "DOJ-Backed Federal Intervention Kills Colorado's Landmark AI Anti-Discrimination Law",
+    "Iran Using Western AI Models to Accelerate Cyberattacks, Financial Times Reports",
+    "Former Google DeepMind Researcher Raises Record $1.1 Billion Seed Round for AI Startup",
+    "GitHub Copilot Switches to Usage-Based AI Billing Today, Ending Era of Flat-Rate Coding AI",
+    "Prompt Position Bias Study Finds Information Placement Matters More Than Content Across 50 Frontier Models"
   ]
 }
