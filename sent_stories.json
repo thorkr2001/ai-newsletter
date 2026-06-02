@@ -50,7 +50,15 @@
     "https://www.cnn.com/2026/05/28/media/cnn-sues-perplexity-ai-copyright",
     "https://www.mcdermottlaw.com/insights/colorado-ai-law-in-flux-comprehensive-replacement-bill-signed-after-federal-court-blocks-predecessors-enforcement/",
     "https://www.cnbc.com/2026/04/28/meta-google-big-tech-staff-ai-labs-investors.html",
-    "https://windowsforum.com/threads/copilot-to-usage-billing-june-1-2026-ai-credits-token-costs-and-meter-shock.420900/"
+    "https://windowsforum.com/threads/copilot-to-usage-billing-june-1-2026-ai-credits-token-costs-and-meter-shock.420900/",
+    "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html",
+    "https://windowsnews.ai/article/build-2026-microsoft-unleashes-ai-agents-across-office-365-windows-and-azure-at-san-francisco-keynot.421349",
+    "https://letsdatascience.com/blog/github-copilot-usage-based-billing-developer-backlash",
+    "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42A0BV:0-google-deepmind-anthropic-and-meta-expand-research-into-machine-consciousness-and-ai-welfare-ft/",
+    "https://studyfinds.com/ai-outperforms-doctors-diagnosing-patients-harvard-stanford-study/",
+    "https://radicaldatascience.wordpress.com/2026/06/01/ai-news-briefs-bulletin-board-for-june-2026/",
+    "https://www.techtimes.com/articles/317452/20260531/yann-lecuns-world-model-earns-formal-proof-benchmark-finds-current-models-brittle.htm",
+    "https://www.crescendo.ai/news/latest-ai-news-and-updates"
   ],
   "titles": [
     "Anthropic's Claude Mythos Finds 10,000+ Critical Software Vulnerabilities Through Project Glasswing",
@@ -112,6 +120,16 @@
     "Iran Using Western AI Models to Accelerate Cyberattacks, Financial Times Reports",
     "Former Google DeepMind Researcher Raises Record $1.1 Billion Seed Round for AI Startup",
     "GitHub Copilot Switches to Usage-Based AI Billing Today, Ending Era of Flat-Rate Coding AI",
-    "Prompt Position Bias Study Finds Information Placement Matters More Than Content Across 50 Frontier Models"
+    "Prompt Position Bias Study Finds Information Placement Matters More Than Content Across 50 Frontier Models",
+    "Anthropic Files Confidential IPO, Racing OpenAI to Become First Trillion-Dollar AI Public Company",
+    "Microsoft Build 2026: Nadella Declares 'Agents Are the New Operating System for Work,' Unveils Windows Local AI",
+    "GitHub Copilot's Shift to Token-Based Billing Goes Live, Sparking Developer Backlash Over Cost Shock",
+    "SpaceX IPO Roadshow Set for June 8, Targeting $75 Billion Raise at $1.75 Trillion Valuation \u2014 History's Largest Offering",
+    "Google DeepMind, Anthropic, and Meta Hire Philosophers and Psychologists to Formally Study Machine Consciousness",
+    "Landmark Harvard-Led Study in Science: OpenAI's o1 Outperforms ER Physicians at Emergency Triage Diagnosis",
+    "Ai2 Releases MolmoAct 2: Open Robotics Model Downloads 400K Times, Runs 37x Faster Than Predecessor",
+    "LeCun's AMI Labs Publishes Formal Proof of When JEPA Architecture Actually Learns a World Model",
+    "Colorado's Landmark AI Act Effectively Dismantled: Federal Court Stay and Replacement Law Scrap Core Discrimination Protections",
+    "JPMorgan Chase Reclassifies AI as Core Infrastructure With $19.8B Budget, Projects $2.5B in Annual AI Value"
   ]
 }
