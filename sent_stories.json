@@ -58,7 +58,15 @@
     "https://studyfinds.com/ai-outperforms-doctors-diagnosing-patients-harvard-stanford-study/",
     "https://radicaldatascience.wordpress.com/2026/06/01/ai-news-briefs-bulletin-board-for-june-2026/",
     "https://www.techtimes.com/articles/317452/20260531/yann-lecuns-world-model-earns-formal-proof-benchmark-finds-current-models-brittle.htm",
-    "https://www.crescendo.ai/news/latest-ai-news-and-updates"
+    "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+    "https://www.anthropic.com/news/claude-sonnet-5",
+    "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "https://openai.com/index/introducing-genebench-pro/",
+    "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
+    "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+    "https://cyberscoop.com/cisa-nsa-five-eyes-guidance-secure-deployment-ai-agents/",
+    "https://news.crunchbase.com/venture/us-ai-startup-funding-boom-data/"
   ],
   "titles": [
     "Anthropic's Claude Mythos Finds 10,000+ Critical Software Vulnerabilities Through Project Glasswing",
@@ -130,6 +138,16 @@
     "Ai2 Releases MolmoAct 2: Open Robotics Model Downloads 400K Times, Runs 37x Faster Than Predecessor",
     "LeCun's AMI Labs Publishes Formal Proof of When JEPA Architecture Actually Learns a World Model",
     "Colorado's Landmark AI Act Effectively Dismantled: Federal Court Stay and Replacement Law Scrap Core Discrimination Protections",
-    "JPMorgan Chase Reclassifies AI as Core Infrastructure With $19.8B Budget, Projects $2.5B in Annual AI Value"
+    "JPMorgan Chase Reclassifies AI as Core Infrastructure With $19.8B Budget, Projects $2.5B in Annual AI Value",
+    "Anthropic Launches Claude Sonnet 5 as New Default Model, Targeting Agentic Workflows at Lower Cost",
+    "OpenAI Previews GPT-5.6 Family (Sol, Terra, Luna) Under Unprecedented U.S. Government-Coordinated Rollout",
+    "Anthropic Launches Claude Science: An AI Workbench for Scientific Research Targeting Drug Discovery and Biomedical Labs",
+    "OpenAI Releases GeneBench-Pro: A Research-Level Benchmark Revealing Limits of AI in Computational Biology",
+    "EU AI Act Transparency Rules Take Effect August 2, Requiring All Chatbots and Generative AI to Disclose AI Interactions",
+    "SpaceX Colossus Begins $6.3 Billion Compute Deal with Open-Source AI Startup Reflection AI \u2014 Payments Start Today",
+    "Trump AI Executive Order's 30-Day Cybersecurity Deadline Expires Today, Setting Up Critical Government Review of Frontier Models",
+    "Five Eyes Nations Issue First-Ever Coordinated Security Guidance on Agentic AI, Citing Critical Infrastructure Risks",
+    "Anthropic's Claude Fable 5 Cleared for Global Return on July 1 Following U.S. Export Control Standoff",
+    "U.S. Captures 88% of Global AI Startup Funding in 2026, as AI VC Concentration Reaches Historic Levels"
   ]
 }
