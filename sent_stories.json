@@ -66,7 +66,15 @@
     "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
     "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
     "https://cyberscoop.com/cisa-nsa-five-eyes-guidance-secure-deployment-ai-agents/",
-    "https://news.crunchbase.com/venture/us-ai-startup-funding-boom-data/"
+    "https://news.crunchbase.com/venture/us-ai-startup-funding-boom-data/",
+    "https://news.un.org/en/story/2026/07/1167862",
+    "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "https://finance.yahoo.com/technology/ai/articles/us-talks-ai-companies-voluntary-001646707.html",
+    "https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy",
+    "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+    "https://www.buildfastwithai.com/blogs/ai-news-today-july-6-2026",
+    "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
+    "https://aigovernance.com/news/ai-governance-weekly-july-3-2026"
   ],
   "titles": [
     "Anthropic's Claude Mythos Finds 10,000+ Critical Software Vulnerabilities Through Project Glasswing",
@@ -148,6 +156,16 @@
     "Trump AI Executive Order's 30-Day Cybersecurity Deadline Expires Today, Setting Up Critical Government Review of Frontier Models",
     "Five Eyes Nations Issue First-Ever Coordinated Security Guidance on Agentic AI, Citing Critical Infrastructure Risks",
     "Anthropic's Claude Fable 5 Cleared for Global Return on July 1 Following U.S. Export Control Standoff",
-    "U.S. Captures 88% of Global AI Startup Funding in 2026, as AI VC Concentration Reaches Historic Levels"
+    "U.S. Captures 88% of Global AI Startup Funding in 2026, as AI VC Concentration Reaches Historic Levels",
+    "UN Convenes First-Ever Intergovernmental AI Governance Summit in Geneva with All 193 Member States",
+    "World's First Fully Autonomous AI Ransomware Attack Documented by Sysdig Researchers",
+    "White House and AI Labs Near Voluntary Release Standards as GPT-5.6 Awaits Broad Access",
+    "FTC Proposes AI 'Accuracy' Policy Statement, Declares Colorado AI Act Potentially Preempted",
+    "OpenAI Releases GPT-Realtime-2.1 Voice Models with 25% Latency Reduction on July 7",
+    "Together AI Closes $800M Series C at $8.3B Valuation, Led by Saudi Aramco Ventures",
+    "Chinese AI Models Now Command 45\u201354% of Global OpenRouter Traffic, Led by Xiaomi's MiMo",
+    "Anthropic's Claude Fable 5 Billing Structure Changes July 7 as Science Workbench Expands",
+    "Global Venture Funding Reached Record $510B in H1 2026, with OpenAI and Anthropic Taking 43%",
+    "US State AI Legislation Surges with 19 New Laws in Two Weeks as Federal Preemption Battle Escalates"
   ]
 }
