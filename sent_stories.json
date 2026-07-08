@@ -74,7 +74,16 @@
     "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
     "https://www.buildfastwithai.com/blogs/ai-news-today-july-6-2026",
     "https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-2026/",
-    "https://aigovernance.com/news/ai-governance-weekly-july-3-2026"
+    "https://aigovernance.com/news/ai-governance-weekly-july-3-2026",
+    "https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion",
+    "https://www.governing.com/artificial-intelligence/illinois-sets-a-new-standard-for-ai-oversight",
+    "https://news.un.org/en/story/2026/07/1167873",
+    "https://digital-strategy.ec.europa.eu/en/news/commission-presents-eu-action-plan-cybersecurity-and-artificial-intelligence",
+    "https://247wallst.com/investing/2026/07/07/after-laying-off-8000-employees-zuckerberg-admits-metas-ai-hasnt-really-accelerated-as-expected/",
+    "https://www.techtimes.com/articles/319798/20260706/mistral-ai-targets-frontier-gap-open-weight-model-entering-july-early-access.htm",
+    "https://www.marketscale.com/industries/software-and-technology/nvidia-vera-rubin-rack-costs-7-8m-memory-is-why",
+    "https://blogs.nvidia.com/blog/open-models-icml-2026/",
+    "https://www.cnbc.com/2026/05/28/anthropic-open-ai-startup-value.html"
   ],
   "titles": [
     "Anthropic's Claude Mythos Finds 10,000+ Critical Software Vulnerabilities Through Project Glasswing",
@@ -166,6 +175,15 @@
     "Chinese AI Models Now Command 45\u201354% of Global OpenRouter Traffic, Led by Xiaomi's MiMo",
     "Anthropic's Claude Fable 5 Billing Structure Changes July 7 as Science Workbench Expands",
     "Global Venture Funding Reached Record $510B in H1 2026, with OpenAI and Anthropic Taking 43%",
-    "US State AI Legislation Surges with 19 New Laws in Two Weeks as Federal Preemption Battle Escalates"
+    "US State AI Legislation Surges with 19 New Laws in Two Weeks as Federal Preemption Battle Escalates",
+    "Illinois Becomes Third U.S. State to Enact Frontier AI Safety Law, Introducing First-Ever Mandatory Independent Audits",
+    "UN Holds Inaugural Global Dialogue on AI Governance in Geneva, Calling for Universal Safety Standards",
+    "European Commission Launches AI-Cybersecurity Action Plan with Pre-Market Model Evaluation and Secure Testing Platform",
+    "Zuckerberg Admits Meta's AI Acceleration 'Hasn't Really Happened as Expected' After 8,000 Layoffs",
+    "Mistral AI Opens Early Access to New Open-Weight Frontier Model This Month, Targeting US API Dependence",
+    "NVIDIA Vera Rubin AI Rack Pricing Hits $7.8 Million as Memory Costs Surge 435%, Reshaping AI Infrastructure Economics",
+    "Global AI Startup Funding Hits Record $510 Billion in H1 2026, Driven by Concentration in U.S. Labs",
+    "NVIDIA Dominates ICML 2026 as Open Models Drive AI Research Across Robotics, Biology, and Reinforcement Learning",
+    "Anthropic Overtakes OpenAI in Revenue at $47 Billion Run Rate as Enterprise AI Adoption Reshapes Market Leadership"
   ]
 }
